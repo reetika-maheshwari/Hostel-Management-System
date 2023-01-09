@@ -1,0 +1,16 @@
+D:\Game Project\demo\demo\bin\Debug\demo.exe.config
+D:\Game Project\demo\demo\bin\Debug\demo.exe
+D:\Game Project\demo\demo\bin\Debug\demo.pdb
+D:\Game Project\demo\demo\obj\Debug\demo.Properties.Resources.resources
+D:\Game Project\demo\demo\obj\Debug\demo.csproj.GenerateResource.cache
+D:\Game Project\demo\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+D:\Game Project\demo\demo\obj\Debug\demo.exe
+D:\Game Project\demo\demo\obj\Debug\demo.pdb
+D:\Game Project\demo\demo\bin\Debug\DevExpress.Data.v22.2.dll
+D:\Game Project\demo\demo\bin\Debug\DevExpress.Data.v22.2.xml
+D:\Game Project\demo\demo\obj\Debug\demo.Form1.resources
+D:\Game Project\demo\demo\obj\Debug\demo.csproj.CopyComplete
+D:\Game Project\demo\demo\bin\Debug\MySql.Data.dll
+D:\Game Project\demo\demo\obj\Debug\demo.MyControl.resources
+D:\Game Project\demo\demo\obj\Debug\demo.csproj.AssemblyReference.cache
+D:\Game Project\demo\demo\obj\Debug\demo.fulldetailform.resources

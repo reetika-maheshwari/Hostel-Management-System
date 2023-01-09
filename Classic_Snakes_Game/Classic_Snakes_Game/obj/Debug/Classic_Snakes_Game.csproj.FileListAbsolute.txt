@@ -1,0 +1,10 @@
+D:\Game Project\Classic_Snakes_Game\Classic_Snakes_Game\bin\Debug\Classic_Snakes_Game.exe.config
+D:\Game Project\Classic_Snakes_Game\Classic_Snakes_Game\bin\Debug\Classic_Snakes_Game.exe
+D:\Game Project\Classic_Snakes_Game\Classic_Snakes_Game\bin\Debug\Classic_Snakes_Game.pdb
+D:\Game Project\Classic_Snakes_Game\Classic_Snakes_Game\obj\Debug\Classic_Snakes_Game.csproj.AssemblyReference.cache
+D:\Game Project\Classic_Snakes_Game\Classic_Snakes_Game\obj\Debug\Classic_Snakes_Game.Classic_Snakes_Game.resources
+D:\Game Project\Classic_Snakes_Game\Classic_Snakes_Game\obj\Debug\Classic_Snakes_Game.Properties.Resources.resources
+D:\Game Project\Classic_Snakes_Game\Classic_Snakes_Game\obj\Debug\Classic_Snakes_Game.csproj.GenerateResource.cache
+D:\Game Project\Classic_Snakes_Game\Classic_Snakes_Game\obj\Debug\Classic_Snakes_Game.csproj.CoreCompileInputs.cache
+D:\Game Project\Classic_Snakes_Game\Classic_Snakes_Game\obj\Debug\Classic_Snakes_Game.exe
+D:\Game Project\Classic_Snakes_Game\Classic_Snakes_Game\obj\Debug\Classic_Snakes_Game.pdb

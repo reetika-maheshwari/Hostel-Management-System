@@ -1,0 +1,16 @@
+D:\Game Project\SiriApp\SiriApp\bin\Debug\netcoreapp3.1\SiriApp.exe
+D:\Game Project\SiriApp\SiriApp\bin\Debug\netcoreapp3.1\SiriApp.deps.json
+D:\Game Project\SiriApp\SiriApp\bin\Debug\netcoreapp3.1\SiriApp.runtimeconfig.json
+D:\Game Project\SiriApp\SiriApp\bin\Debug\netcoreapp3.1\SiriApp.runtimeconfig.dev.json
+D:\Game Project\SiriApp\SiriApp\bin\Debug\netcoreapp3.1\SiriApp.dll
+D:\Game Project\SiriApp\SiriApp\bin\Debug\netcoreapp3.1\SiriApp.pdb
+D:\Game Project\SiriApp\SiriApp\obj\Debug\netcoreapp3.1\SiriApp.Form1.resources
+D:\Game Project\SiriApp\SiriApp\obj\Debug\netcoreapp3.1\SiriApp.Properties.Resources.resources
+D:\Game Project\SiriApp\SiriApp\obj\Debug\netcoreapp3.1\SiriApp.csproj.GenerateResource.cache
+D:\Game Project\SiriApp\SiriApp\obj\Debug\netcoreapp3.1\SiriApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Game Project\SiriApp\SiriApp\obj\Debug\netcoreapp3.1\SiriApp.AssemblyInfoInputs.cache
+D:\Game Project\SiriApp\SiriApp\obj\Debug\netcoreapp3.1\SiriApp.AssemblyInfo.cs
+D:\Game Project\SiriApp\SiriApp\obj\Debug\netcoreapp3.1\SiriApp.csproj.CoreCompileInputs.cache
+D:\Game Project\SiriApp\SiriApp\obj\Debug\netcoreapp3.1\SiriApp.dll
+D:\Game Project\SiriApp\SiriApp\obj\Debug\netcoreapp3.1\SiriApp.pdb
+D:\Game Project\SiriApp\SiriApp\obj\Debug\netcoreapp3.1\SiriApp.genruntimeconfig.cache

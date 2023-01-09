@@ -1,0 +1,15 @@
+D:\Game Project\Helloworld\Helloworld\Helloworld\bin\Debug\netstandard2.0\Helloworld.deps.json
+D:\Game Project\Helloworld\Helloworld\Helloworld\bin\Debug\netstandard2.0\Helloworld.dll
+D:\Game Project\Helloworld\Helloworld\Helloworld\bin\Debug\netstandard2.0\ref\Helloworld.dll
+D:\Game Project\Helloworld\Helloworld\Helloworld\bin\Debug\netstandard2.0\Helloworld.pdb
+D:\Game Project\Helloworld\Helloworld\Helloworld\obj\Debug\netstandard2.0\Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Game Project\Helloworld\Helloworld\Helloworld\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Game Project\Helloworld\Helloworld\Helloworld\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Game Project\Helloworld\Helloworld\Helloworld\obj\Debug\netstandard2.0\Helloworld.AssemblyInfoInputs.cache
+D:\Game Project\Helloworld\Helloworld\Helloworld\obj\Debug\netstandard2.0\Helloworld.AssemblyInfo.cs
+D:\Game Project\Helloworld\Helloworld\Helloworld\obj\Debug\netstandard2.0\Helloworld.csproj.CoreCompileInputs.cache
+D:\Game Project\Helloworld\Helloworld\Helloworld\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Game Project\Helloworld\Helloworld\Helloworld\obj\Debug\netstandard2.0\Helloworld.dll
+D:\Game Project\Helloworld\Helloworld\Helloworld\obj\Debug\netstandard2.0\ref\Helloworld.dll
+D:\Game Project\Helloworld\Helloworld\Helloworld\obj\Debug\netstandard2.0\Helloworld.pdb
+D:\Game Project\Helloworld\Helloworld\Helloworld\obj\Debug\netstandard2.0\Helloworld.csproj.AssemblyReference.cache

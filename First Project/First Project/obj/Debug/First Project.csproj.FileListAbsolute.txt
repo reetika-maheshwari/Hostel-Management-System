@@ -1,0 +1,52 @@
+D:\Game Project\First Project\First Project\bin\Debug\First Project.exe.config
+D:\Game Project\First Project\First Project\bin\Debug\First Project.exe
+D:\Game Project\First Project\First Project\bin\Debug\First Project.pdb
+D:\Game Project\First Project\First Project\obj\Debug\First Project.csproj.AssemblyReference.cache
+D:\Game Project\First Project\First Project\obj\Debug\First_Project.Properties.Resources.resources
+D:\Game Project\First Project\First Project\obj\Debug\First Project.csproj.GenerateResource.cache
+D:\Game Project\First Project\First Project\obj\Debug\First Project.csproj.CoreCompileInputs.cache
+D:\Game Project\First Project\First Project\obj\Debug\First Project.exe
+D:\Game Project\First Project\First Project\obj\Debug\First Project.pdb
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.Data.v22.2.dll
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.Data.v22.2.xml
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\Game Project\First Project\First Project\obj\Debug\First Project.csproj.CopyComplete
+D:\Game Project\First Project\First Project\obj\Debug\First_Project.LoginForm.resources
+D:\Game Project\First Project\First Project\obj\Debug\First_Project.secondform.resources
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\Game Project\First Project\First Project\obj\Debug\First_Project.devform.resources
+D:\Game Project\First Project\First Project\obj\Debug\First Project.exe.licenses
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.XtraBars.v22.2.dll
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\Game Project\First Project\First Project\obj\Debug\First_Project.Devtile.resources
+D:\Game Project\First Project\First Project\obj\Debug\First_Project.ToolbarForm.resources
+D:\Game Project\First Project\First Project\obj\Debug\First_Project.FluentDesignForm.resources
+D:\Game Project\First Project\First Project\obj\Debug\First_Project.XtraDevForm.resources
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.Images.v22.2.dll
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\Game Project\First Project\First Project\bin\Debug\DevExpress.XtraNavBar.v22.2.xml

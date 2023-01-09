@@ -1,0 +1,32 @@
+D:\Game Project\Student Registation\Student Registation\bin\Debug\Student Registation.exe.config
+D:\Game Project\Student Registation\Student Registation\bin\Debug\Student Registation.exe
+D:\Game Project\Student Registation\Student Registation\bin\Debug\Student Registation.pdb
+D:\Game Project\Student Registation\Student Registation\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\Game Project\Student Registation\Student Registation\bin\Debug\DevExpress.Data.v22.2.dll
+D:\Game Project\Student Registation\Student Registation\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\Game Project\Student Registation\Student Registation\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\Game Project\Student Registation\Student Registation\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\Game Project\Student Registation\Student Registation\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+D:\Game Project\Student Registation\Student Registation\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+D:\Game Project\Student Registation\Student Registation\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\Game Project\Student Registation\Student Registation\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\Game Project\Student Registation\Student Registation\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\Game Project\Student Registation\Student Registation\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\Game Project\Student Registation\Student Registation\bin\Debug\DevExpress.Data.v22.2.xml
+D:\Game Project\Student Registation\Student Registation\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\Game Project\Student Registation\Student Registation\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\Game Project\Student Registation\Student Registation\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\Game Project\Student Registation\Student Registation\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\Game Project\Student Registation\Student Registation\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\Game Project\Student Registation\Student Registation\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\Game Project\Student Registation\Student Registation\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\Game Project\Student Registation\Student Registation\obj\Debug\Student Registation.csproj.AssemblyReference.cache
+D:\Game Project\Student Registation\Student Registation\obj\Debug\Student_Registation.Form1.resources
+D:\Game Project\Student Registation\Student Registation\obj\Debug\Student_Registation.Properties.Resources.resources
+D:\Game Project\Student Registation\Student Registation\obj\Debug\Student Registation.csproj.GenerateResource.cache
+D:\Game Project\Student Registation\Student Registation\obj\Debug\Student Registation.exe.licenses
+D:\Game Project\Student Registation\Student Registation\obj\Debug\Student Registation.csproj.CoreCompileInputs.cache
+D:\Game Project\Student Registation\Student Registation\obj\Debug\Student Registation.csproj.CopyComplete
+D:\Game Project\Student Registation\Student Registation\obj\Debug\Student Registation.exe
+D:\Game Project\Student Registation\Student Registation\obj\Debug\Student Registation.pdb
+D:\Game Project\Student Registation\Student Registation\bin\Debug\MySql.Data.dll
